@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi 👋 I'm Krisha Vaghasiya
 
-<!--
-**KrishaVaghasiya25/krishavaghasiya25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Diploma student in Information Technology  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Technical Background
+- Web Development: HTML, CSS, PHP
+- Programming Languages: C, C#, Java,Python (Basics)
+- Database: SQL
+- Frameworks: .NET (Basics)
+
+---
+
+## 🛠️ Current Focus
+- College web development projects
+- Practicing programming fundamentals
+- Improving database and backend concepts
+
+---
+
+## 📊 GitHub Activity
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=krishavaghasiya25&show_icons=true&theme=light)
