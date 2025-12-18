@@ -57,6 +57,5 @@ This helps me build confidence and real understanding over time.
 📍 India  
 ✨ Learning every day, one step at a time
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KrishaVaghasiya25&show_icons=true&theme=tokyonight)
 
 
