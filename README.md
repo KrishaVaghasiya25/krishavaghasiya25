@@ -1,7 +1,6 @@
 # Hi, I'm Krisha 👋
 
 🎓 Diploma IT (Final Semester)  
-🐍 Python Learner | Beginner Developer  
 🌱 Building projects step by step and learning by doing
 
 ---
