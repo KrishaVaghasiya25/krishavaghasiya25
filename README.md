@@ -1,12 +1,11 @@
 # Hi, I'm Krisha 👋
 
-🎓 Diploma IT (Final Semester)  
+🎓  
 🌱 Building projects step by step and learning by doing
 
 ---
 
-## 👩‍💻 About Me
-I am currently a Diploma IT student in my final semester.  
+## 👩‍💻 About Me 
 I am learning programming fundamentals and building small projects to improve my skills.
 
 I focus on **understanding concepts clearly**, practicing regularly, and improving my code gradually instead of rushing to advanced topics.
