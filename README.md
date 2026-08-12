@@ -24,8 +24,6 @@ This helps me build confidence and real understanding over time.
 ---
 
 ## 🛠️ Skills & Tools
-- **Languages:** Python, C, C# (Basics)
-- **Libraries / Tools:** OpenCV, MediaPipe, Pygame (Basics)
 - **Concepts:** Programming fundamentals, logic building
 - **Version Control:** Git & GitHub (learning)
 
